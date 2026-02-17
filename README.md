@@ -36,6 +36,9 @@ Designed to be fully or mostly CLI-driven — minimal browser interaction.
 | [apigee-securing-apis](labs/apigee-securing-apis/lab.md) | Apigee: Securing APIs (OAuth JWT, SpikeArrest, data masking) | ✅ 100% CLI |
 | [apigee-publishing-apis](labs/apigee-publishing-apis/lab.md) | Apigee: Publishing APIs (VerifyAPIKey, Quota, CORS, developer portal) | ⚠️ Mostly CLI (portal = UI) |
 | [apigee-modernizing-apps](labs/apigee-modernizing-apps/lab.md) | Apigee: Modernizing Applications (shared flows, cache, JavaScript) | ⚠️ Mostly CLI (proxy/flow editing = UI) |
+| [apigee-xml-support](labs/apigee-xml-support/lab.md) | Apigee: Adding XML Support (JSONtoXML, Accept header content negotiation) | ✅ 100% CLI |
+| [apigee-mashup-services](labs/apigee-mashup-services/lab.md) | Apigee: Mashing Up Services (ServiceCallout, ExtractVariables, JavaScript merge) | ✅ 100% CLI |
+| [apigee-parallel-js](labs/apigee-parallel-js/lab.md) | Apigee: Calling Services in Parallel Using JavaScript (httpClient, context.session) | ✅ 100% CLI |
 
 ## Quizzes
 
