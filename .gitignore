@@ -1,0 +1,9 @@
+# Credentials — never commit real creds
+creds.sh
+
+# Downloaded specs / artifacts
+*.yaml
+*.zip
+
+# macOS
+.DS_Store

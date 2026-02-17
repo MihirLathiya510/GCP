@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+# ─────────────────────────────────────────────────────────────────────────────
+# Lab credentials — copy this file to creds.sh and fill in your values.
+# creds.sh is gitignored and will never be committed.
+#
+# Where to find these:
+#   Skills Boost lab page → "Student Resources" panel (top-left)
+# ─────────────────────────────────────────────────────────────────────────────
+
+export LAB_USERNAME=""        # e.g. student-xx-xxxx@qwiklabs.net
+export LAB_PASSWORD=""        # lab-provided temporary password
+export LAB_PROJECT_ID=""      # e.g. qwiklabs-gcp-00-xxxxxxxxxx
+export LAB_ZONE=""            # e.g. us-east1-d
