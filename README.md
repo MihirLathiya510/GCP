@@ -35,6 +35,7 @@ Designed to be fully or mostly CLI-driven — minimal browser interaction.
 | [apigee-gcp-services](labs/apigee-gcp-services/lab.md) | Apigee: Using Google Cloud Services (NL API, Pub/Sub, Logging) | ✅ 100% CLI |
 | [apigee-securing-apis](labs/apigee-securing-apis/lab.md) | Apigee: Securing APIs (OAuth JWT, SpikeArrest, data masking) | ✅ 100% CLI |
 | [apigee-publishing-apis](labs/apigee-publishing-apis/lab.md) | Apigee: Publishing APIs (VerifyAPIKey, Quota, CORS, developer portal) | ⚠️ Mostly CLI (portal = UI) |
+| [apigee-modernizing-apps](labs/apigee-modernizing-apps/lab.md) | Apigee: Modernizing Applications (shared flows, cache, JavaScript) | ⚠️ Mostly CLI (proxy/flow editing = UI) |
 
 ## Quizzes
 
